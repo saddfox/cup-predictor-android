@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Cup Predictor</string>
+    <string name="host">http://10.0.2.2:7000</string>
+    <string name="loginButton">Login</string>
+    <string name="emailHint">E-mail</string>
+    <string name="passwordHint">Password</string>
+    <string name="not_registered">Don\'t have an account?</string>
+    <string name="already_registered">Already registered? Login</string>
+    <string name="register">Register</string>
+    <string name="username">Username</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
